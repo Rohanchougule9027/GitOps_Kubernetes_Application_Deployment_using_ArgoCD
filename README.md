@@ -45,7 +45,7 @@ Application Accessible to End Users
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Technology Table</title>
+    <title></title>
 </head>
 <body>
 
